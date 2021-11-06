@@ -9,6 +9,14 @@ body{
     background-color: rgb(100, 100, 100);
 }
 
+h1{
+    margin: 0;
+}
+
+.hero-text p{
+    margin: 0;
+}
+
 .header-container-row{
     display: flex;
     align-items: center;
