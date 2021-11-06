@@ -4,6 +4,9 @@ body{
     margin: 0;
 }
 
+header{
+    height: 45vp;
+
 h1{
     margin-bottom: .5rem;
 }
@@ -13,7 +16,7 @@ h1{
 }
 
 .hero{
-    height: 45vh;
+    height: 100%;
     background-color: rgb(100, 100, 100);
 }
 
