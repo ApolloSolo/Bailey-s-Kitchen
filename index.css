@@ -5,11 +5,11 @@ body{
 }
 
 h1{
-    margin-bottom: 1rem;
+    margin-bottom: .5rem;
 }
 
 .hero-text p{
-    margin: 1rem;
+    margin: .5rem;
 }
 
 .hero{
